@@ -1,0 +1,2 @@
+Hi, how are you ? 
+ The file exixted already, so we write to it only now 
